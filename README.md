@@ -1,4 +1,5 @@
-An example cookiecutter project for simple data analysis.
+#  Cookiecutter Template: Repeatable Data Analysis with Notebooks 
 
-Please see [this article](http://pbpython.com/notebook-process.html)
-for details on the background and how to use this cookiecutter template.
+A [cookiecutter template](https://cookiecutter.readthedocs.io/en/1.7.2/) for simple data analysis.
+
+Full details and walk-through over at [**Practical Business Python:  Building a Repeatable Data Analysis Process with Jupyter Notebooks** ](http://pbpython.com/notebook-process.html) on the background and how to use this cookiecutter template.
